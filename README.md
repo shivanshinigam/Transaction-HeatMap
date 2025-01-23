@@ -57,3 +57,5 @@ Open transactionUtils.js.
 Edit the ranges in the getHeatmapCellColor function.
 Adjust corresponding CSS classes in App.css.
 
+![demo](https://github.com/user-attachments/assets/2b78eccb-2eed-41b3-a86c-93e413282d16)
+
