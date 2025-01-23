@@ -30,14 +30,13 @@ Transaction Map is a data visualization tool that provides an intuitive heatmap 
 
 ### 1. **Input Data**
 The application expects transaction data in the following format:
-```json
+json
 [
-  {
+  
     "date": "YYYY-MM-DD",
     "transactionType": "credit" | "debit",
     "amount": Number
-  },
-  ...
+  
 ]
 
 ## Data Processing
